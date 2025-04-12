@@ -1,0 +1,11 @@
+langchain_community 
+langchain_ollama
+langchain_core
+scikit-learn 
+bs4 
+pandas 
+pyarrow 
+faiss
+sentence-transformers
+langchain
+tiktoken
